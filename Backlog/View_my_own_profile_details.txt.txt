@@ -1,0 +1,4 @@
+Task Name:View my own profile details
+
+Description:
+As an admin, I want to view my own profile details so that I can see my information.

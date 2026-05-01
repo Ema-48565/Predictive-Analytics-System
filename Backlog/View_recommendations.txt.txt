@@ -1,0 +1,5 @@
+Name:View recommendations
+
+Description:
+As a student, I want to view recommendations so that I can improve my studies.
+
